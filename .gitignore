@@ -1,0 +1,8 @@
+*.iml
+.idea
+.gradle
+build
+generated-sources
+.DS_Store
+classes
+out
